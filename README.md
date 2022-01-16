@@ -8,3 +8,5 @@ This files included,
 2) Khmer Class and Type
 3) Khmer Grouth-truth Train
 4) Latin translated Dictionary
+#Contact
+Nimol (thuonnimol1@gmail.com)
