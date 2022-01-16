@@ -1,0 +1,8 @@
+1;C
+2;CV
+3;VC
+4;CC
+5;VV
+6;CCC
+7;CVC
+8;VCV
