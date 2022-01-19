@@ -1,6 +1,6 @@
 # SADA
 
-It is glyphs dictionary for supporting on SADA paper. 
+It is glyph dictionary for supporting on SADA paper. 
 
  Insriped by publicly datasets Khmer Palm-leaf, we presented glyphs dictionary based on grammar structures for validation khmer word order.
 This files included, 
