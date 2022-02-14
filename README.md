@@ -6,7 +6,7 @@ It is glyph dictionary for supporting on SADA paper.
 This files included, 
 1) Khmer Common Grammar Structures
 2) Khmer Class and Type
-3) Khmer Grouth-truth Train
+3) Khmer Ground-truth Train
 4) Latin translated Dictionary
 
 
