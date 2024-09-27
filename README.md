@@ -18,8 +18,8 @@ Inspired by publicly available datasets of Khmer palm-leaf manuscripts, we creat
 
 ## Resources
 
-- **Weights Download Link:** [Download Pre-trained Weights](https://example.com/weights)
-- **Datasets Download Link:** [Download Datasets](https://example.com/datasets)
+- **Weights Download Link:** [Download Pre-trained Weights](https://drive.google.com/file/d/15km1riGn19twubZQoGFhvfsXFphGJP1R/view?usp=sharing)
+- **Datasets Download Link:** [Download Datasets]([https://example.com/datasets](https://drive.google.com/drive/folders/16-mLPE8QSGB4-tKpUS2q7_V2L-VgjVhi?usp=sharing))
 
 ## References
 
